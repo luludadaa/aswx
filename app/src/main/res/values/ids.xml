@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="frameLayout" type="id" />
+    <item name="LinearLayout1" type="id" />
+    <item name="linearLayout1" type="id" />
+    <item name="linearLayout2" type="id" />
+    <item name="linearLayout3" type="id" />
+    <item name="linearLayout4" type="id" />
+    <item name="LinearLayout2" type="id" />
+    <item name="LinearLayout3" type="id" />
+    <item name="LinearLayout4" type="id" />
+</resources>
